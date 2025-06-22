@@ -62,7 +62,7 @@ This project demonstrates various tokenization techniques essential for NLP appl
 ### Google Colab (Recommended)
 
 1. **Open the notebook directly in Google Colab**
-   - Click on the notebook file `Implementing_Tokenization (1).ipynb`
+   - Click on the notebook file `Implementing_Tokenization.ipynb`
    - Select "Open in Colab" or upload to your Google Drive
 
 2. **Run the installation cell**
